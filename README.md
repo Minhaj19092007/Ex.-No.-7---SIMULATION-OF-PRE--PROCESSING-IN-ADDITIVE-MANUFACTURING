@@ -1,7 +1,7 @@
 # Ex.No.6.1  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-
-### Name: Punniyakotti.M
-### Register Number: 24006503
+##DATE:23-12-2025
+### Name: MINHAJ AHAMED J
+### Register Number: 25006694
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
